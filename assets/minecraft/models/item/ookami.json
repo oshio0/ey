@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/jinrou",
+		"particle": "item/jinrou"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 0],
+			"to": [32, 12, 2],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [-80, 80, 6],
+			"scale": [4, 4, 1]
+		}
+	}
+}
